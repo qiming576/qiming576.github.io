@@ -7,9 +7,11 @@
 
 # Site Settings
 title                    : "Qiming Li （李启明）"
-description              : "a 23-year-old guy always wants to be a singer. "
+description              : "PhD student at the University of Glasgow."
 repository               : "qiming576/qiming576.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
+url                      : "https://qiming576.github.io"
+baseurl                  : ""
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -22,12 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qiming Li"
+  name_zh          : "李启明"
   avatar           : "images/LQM.JPG"
   bio              : "University of Glasgow"
   location         : "Glasgow, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :
   email            : "q.li.5@research.gla.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "qiming576"
   google_plus      :
   keybase          :
   instagram        :

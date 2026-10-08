@@ -1,5 +1,4 @@
 ---
-layout: compress
 ---
 
 <!doctype html>
@@ -11,10 +10,12 @@ layout: compress
 
   <body>
 
+    <a class="skip-link" href="#main">Skip to main content</a>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <div id="main" role="main">
+    <main id="main" tabindex="-1">
       {% include sidebar.html %}
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -25,7 +26,9 @@ layout: compress
           </section>
         </div>
       </article>
-    </div>
+    </main>
+
+    <footer class="site-footer"><p>Qiming Li · 李启明 &nbsp; / &nbsp; <a href="https://github.com/RayeRen/acad-homepage.github.io">AcadHomepage</a></p></footer>
 
     {% include scripts.html %}
 
