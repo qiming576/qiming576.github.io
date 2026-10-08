@@ -13,20 +13,20 @@ I am a PhD student in the **Trustworthy and Connectivity Systems group** at the 
 
 Outside research, I have always wanted to be a singer.
 
-# 🔥 News {#-news}
+<h1 id="-news">🔥 News</h1>
 
 - *2023.10*: Started my PhD at the University of Glasgow.
 - *2023.06*: Completed my undergraduate degrees at the University of Glasgow and the University of Electronic Science and Technology of China.
 
-# 📝 Publications {#-publications}
+<h1 id="-publications">📝 Publications</h1>
 
 <p class="section-placeholder">Publication details will be added here.</p>
 
-# 🎖 Honors and Awards {#-honors-and-awards}
+<h1 id="-honors-and-awards">🎖 Honors and Awards</h1>
 
 - *2023.06*: First Class Honours, B.Eng in Electrical and Electronic Engineering, University of Glasgow.
 
-# 📖 Educations {#-educations}
+<h1 id="-educations">📖 Educations</h1>
 
 - *2023.10 – present*, PhD student, **University of Glasgow**.
 - *2019.09 – 2023.06*, B.Eng in Electrical and Electronic Engineering with First Class Honours, **University of Glasgow**.
